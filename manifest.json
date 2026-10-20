@@ -1,0 +1,21 @@
+{
+  "manifest_version": "1.0",
+  "org": "PyCQA",
+  "repo": "mccabe-console-script",
+  "versions": [
+    {
+      "commit": "148fc6755e5b148eafa82aa3c4700b72bd035322",
+      "parsed_at": "2026-10-20T23:58:53.004257+00:00",
+      "filetree": "filetree/148fc6755e5b148eafa82aa3c4700b72bd035322.nq.gz",
+      "blobs": [
+        "blob/4107b4f4799e257ab548f7cd251d00c4f082cd69.nq.gz",
+        "blob/8dce522c412087ff69f1d561eebfc320234b0f0f.nq.gz",
+        "blob/6214798659db3b683ccb3a5f1fd11f1cd4bec0ab.nq.gz",
+        "blob/0a774e0cff13f358b1c5c2a9a53efc8e67951dbf.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
